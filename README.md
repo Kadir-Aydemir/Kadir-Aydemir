@@ -12,8 +12,3 @@ I'm a junior back-end developer based in Antalya, Turkey.<br><br>I've been devel
 ## 💬 My Restaurant Project Link:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Nror38YHzEg&t=0s)
 
-## 🏆 My GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-aydemir&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-profile-trophy.vercel.app/?username=kadir-aydemir&theme=dark&no-frame=true&no-bg=true&margin-w=4)<br>
-![](https://github-readme-stats.vercel.app/api?username=kadir-aydemir&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kadir-aydemir&theme=vision-friendly-dark&hide_border=false)
