@@ -12,5 +12,3 @@ I'm a Full-stack developer based in Antalya, Turkey.<br><br>I've been developing
 ## 📜 MorePos Project Video Link:
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Nror38YHzEg&t=0s)
 
-## 🚀 WebDictionary Site Link:
-[![.NET Badge](https://img.shields.io/badge/WebDictionary-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)](https://www.webdictionary.com.tr)
